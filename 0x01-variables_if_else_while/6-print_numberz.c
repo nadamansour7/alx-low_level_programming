@@ -3,7 +3,7 @@
 /**
  * main - Entry print
  *
- * Description: print 0-9 using putcher
+ * Description: print 0-9 using putchar
  *              while using int variable
  *
  * Return: Always 0 (Success)
@@ -16,7 +16,7 @@ int main(void)
 	{
 		/*Convert digit to ASCII representation*/
 		putchar(digit + '0');
-		digit++
+		digit++;
 	}
 	putchar('\n');
 
