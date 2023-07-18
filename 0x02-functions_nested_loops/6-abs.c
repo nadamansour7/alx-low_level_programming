@@ -1,9 +1,12 @@
 #include"main.h"
 /**
- * main - check the code
+ * main - function that computes the absolute
+ * value of integer
+ *
+ * @n: takes the integer type input for function
  *
  * Return: Always 0.
- */
+*/
 int _abs(int)
 {
     if (n < 0)
