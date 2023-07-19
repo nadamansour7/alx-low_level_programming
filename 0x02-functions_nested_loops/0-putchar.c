@@ -3,9 +3,8 @@
 /**
  * main - Print _putchar
  * is written by mbah
- * Rutern: Always 0 (Success)
+ * Return: Always 0.
  */
-
 int main(void)
 {
 	printf("_putchar\n");
